@@ -12,14 +12,14 @@
 
   <samp>
     🧭 Web Devlopment<br>
-    :house_with_garden: Currently based in India 🇮🇳<br>
-    :school: CS/IT Student from IIIT Bhopal [2025]<br>
+    :house_with_garden: India 🇮🇳<br>
+    :school: Pre-final year Student at IIIT Bhopal [2025]<br>
     :email:	mukulsing745@gmail.com <br>
     :pencil: CV: <a href="https://drive.google.com/file/d/1yPPTAVEhOUr9y6-VDYOV9rn71C9RutHO/view?usp=sharing">View Resume</a> <br>
     :briefcase: LinkedIn:  <a href="https://www.linkedin.com/in/mukul-singh1/">LinkedIn Profile</a> <br>
     :bird: Twitter:  <a href="https://twitter.com/MukulSi46694755">Twitter</a> <br>
     <br><br>
-    <img src="https://readme-jokes.vercel.app/api?theme=solidBlue" alt="Jokes Card" ><br><br><br>
+    
     </samp>
 </p>  
 <details>
