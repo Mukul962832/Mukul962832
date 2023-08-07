@@ -1,4 +1,4 @@
-<h1 >Hi.</h1>
+<h1 >Hi. I am <br> Mukul Singh</h1>
 <div align="left"><a href="url"><img src="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif" width="350"></a></div>
 
 
@@ -14,7 +14,7 @@
     🧭 Web Devlopment<br>
     :house_with_garden: Currently based in India 🇮🇳<br>
     :school: CS/IT Student from IIIT Bhopal [2025]<br>
-    :email:	ojashkush@gmail.com <br>
+    :email:	mukulsing745@gmail.com <br>
     :pencil: CV: <a href="https://drive.google.com/file/d/1yPPTAVEhOUr9y6-VDYOV9rn71C9RutHO/view?usp=sharing">View Resume</a> <br>
     :briefcase: LinkedIn:  <a href="https://www.linkedin.com/in/mukul-singh1/">LinkedIn Profile</a> <br>
     :bird: Twitter:  <a href="https://twitter.com/MukulSi46694755">Twitter</a> <br>
@@ -26,11 +26,11 @@
   <summary><kbd>Github Statistics(click)</kbd></summary>
 
 <h3 align="left"> Github Stats:</h3>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ojashkush&show_icons=true&locale=en&layout=compact&theme=tokyonight"
-alt="ojashkush" /></p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ojashkush&show_icons=true&locale=en&theme=tokyonight"
-alt="ojashkush" /></p>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ojashkush&&theme=tokyonight"
-alt="ojashkush" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mukul962832&show_icons=true&locale=en&layout=compact&theme=tokyonight"
+alt="Mukul962832" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Mukul962832&show_icons=true&locale=en&theme=tokyonight"
+alt="Mukul962832" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mukul962832&&theme=tokyonight"
+alt="Mukul962832" /></p>
 
 </details>
