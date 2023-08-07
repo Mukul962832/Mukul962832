@@ -1,36 +1,118 @@
-<h1 >Hi. I am <br> Mukul Singh</h1>
-<div align="left"><a href="url"><img src="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif" width="350"></a></div>
+<div align="center">
+<img src="https://pixabay.com/get/g8bc7494c0741c5a4b0d0717c54cfb6609a2ee37550a9793cb6d6893232e7b6101eb51ecb40b5a61911d0eb5a1508129c_640.png" align="center" style="width: 40%" />
+</div>  
+  
+
+### <div align="center">I'm Mukul Singh, a Pre-final year at IIIT Bhopal👨‍💻, a Frontend web developer.</div>  
+  
+
+                          - 🌱 I’m currently learning Data structures and Algorithms, Frontend web development.  
+
+                                               - ⚡ Fun fact: I think I am funny and I am right.  
+  
+
+<br/>  
 
 
-<!-- <p align="center"><img src="https://user-images.githubusercontent.com/67634565/123535664-dcf83700-d742-11eb-84ee-e0663dd167b5.png" width='500'></p> -->
-<!-- <a href="#"><img alt="Counter" src="https://visitor-badge.glitch.me/badge?page_id=umgbhalla.visitor-badge"/></a> -->
-<!-- <a href="https://github.com/umgbhalla"><img alt="GHstars" src="https://img.shields.io/github/stars/umgbhalla?affiliations=OWNER%2CCOLLABORATOR&label=GH%20stars" /></a> -->
-<!-- <a href="https://dev.to/umgbhalla"><img alt="dev.to" src="https://img.shields.io/badge/DEV.TO-umgbhalla-black?logoColor=fbf1c7&color=fbf1c7&logo=dev.to&" /></a> -->
-<br>
-<h4 >$ whoami </h4>
-<p >
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
 
-  <samp>
-    🧭 Web Devlopment<br>
-    :house_with_garden: India 🇮🇳<br>
-    :school: Pre-final year Student at IIIT Bhopal [2025]<br>
-    :email:	mukulsing745@gmail.com <br>
-    :pencil: CV: <a href="https://drive.google.com/file/d/1yPPTAVEhOUr9y6-VDYOV9rn71C9RutHO/view?usp=sharing">View Resume</a> <br>
-    :briefcase: LinkedIn:  <a href="https://www.linkedin.com/in/mukul-singh1/">LinkedIn Profile</a> <br>
-    :bird: Twitter:  <a href="https://twitter.com/MukulSi46694755">Twitter</a> <br>
-    <br><br>
-    
-    </samp>
-</p>  
-<details>
-  <summary><kbd>Github Statistics(click)</kbd></summary>
 
-<h3 align="left"> Github Stats:</h3>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mukul962832&show_icons=true&locale=en&layout=compact&theme=tokyonight"
-alt="Mukul962832" /></p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Mukul962832&show_icons=true&locale=en&theme=tokyonight"
-alt="Mukul962832" /></p>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mukul962832&&theme=tokyonight"
-alt="Mukul962832" /></p>
 
-</details>
+### Frontend  
+<div align="center">  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+### Programming Languages  
+<div align="center">  
+<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
+<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+### Tools & Frameworks  
+<div align="center">  
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
+<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
+</div>
+
+</td></tr></table>  
+
+<br/>  
+
+
+## Connect with me  
+
+
+### Socials  
+<div align="center">
+<a href="https://github.com/Mukul962832" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/https://twitter.com/MukulSi46694755" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mukul-singh1/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/https://www.instagram.com/muk00l_singh/" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/https://www.facebook.com/mukulsingh122/" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
+
+
+
+### Resume  
+https://drive.google.com/drive/folders/1v4WDT9hRo968ZM2ema6N9eyYdHbZ4PP0  
+
+### Contacts
+mukulsingh745@gmail.com <br>
+9628323970
+
+<br/>  
+
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Mukul962832&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mukul962832&hide_border=true&layout=compact" align="center" /></div>  
+
+<br/>  
+  
+
+<br/>  
+
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31wulbdoptfuxsvlzdwnrujggzgy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" /></div>  
+
+<br/>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Mukul962832&&style=flat-square" align="center" />
+</div>  
+  
+
+<br/>  
+
+  
+
+<br/>  
+
+
+<br />
