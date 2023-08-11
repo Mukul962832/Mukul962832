@@ -12,6 +12,7 @@
   
 
 <br/>  
+<div align="center"> 
 
 
 ## My Skill Set  
@@ -49,9 +50,14 @@
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
 </div>
 
-</td></tr></table>  
+
+
+</td></tr></table> 
+</div>
 
 <br/>  
+
+
 
 
 ## Connect with me  
@@ -91,17 +97,31 @@ mukulsingh745@gmail.com <br>
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Mukul962832&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<br/> 
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mukul962832&hide_border=true&layout=compact" align="center" /></div>  
 
-<br/>  
+<br/> 
+
+## Top Repositories
+
+<div align="center">
+<a href="https://mukul-singh-portfolio.netlify.app/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mukul962832&repo=Mukul_Portfolio" />
+</a>
+<a href="https://stud-io-by-mukul.netlify.app/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mukul962832&repo=Gym-landing-page" />
+</a>
+
+</div> 
+
   
 
 <br/>  
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31wulbdoptfuxsvlzdwnrujggzgy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" /></div>  
 
-<br/>  
+<br/> 
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Mukul962832&&style=flat-square" align="center" />
