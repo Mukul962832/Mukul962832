@@ -96,12 +96,18 @@ mukulsingh745@gmail.com <br>
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Mukul962832&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-<br/> 
+<details>
+  <summary><kbd>Github Statistics(click)</kbd></summary>
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mukul962832&hide_border=true&layout=compact" align="center" /></div>  
+<h3 align="left"> Github Stats:</h3>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ojashkush&show_icons=true&locale=en&layout=compact&theme=tokyonight"
+alt="ojashkush" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ojashkush&show_icons=true&locale=en&theme=tokyonight"
+alt="ojashkush" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ojashkush&&theme=tokyonight"
+alt="ojashkush" /></p>
 
-<br/> 
+</details>
 
 ## Top Repositories
 
