@@ -96,30 +96,14 @@ mukulsingh745@gmail.com <br>
 
 
 ## Github Stats  
-<details>
-  <summary><kbd>Github Statistics(click)</kbd></summary>
+  
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mukul962832&show_icons=true&locale=en&layout=compact&theme=tokyonight"
+alt="Mukul962832" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Mukul962832&show_icons=true&locale=en&theme=tokyonight"
+alt="Mukul962832" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mukul962832&&theme=tokyonight"
+alt="Mukul962832" /></p>
 
-<h3 align="left"> Github Stats:</h3>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ojashkush&show_icons=true&locale=en&layout=compact&theme=tokyonight"
-alt="ojashkush" /></p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ojashkush&show_icons=true&locale=en&theme=tokyonight"
-alt="ojashkush" /></p>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ojashkush&&theme=tokyonight"
-alt="ojashkush" /></p>
-
-</details>
-
-## Top Repositories
-
-<div align="center">
-<a href="https://mukul-singh-portfolio.netlify.app/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mukul962832&repo=Mukul_Portfolio" />
-</a>
-<a href="https://stud-io-by-mukul.netlify.app/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mukul962832&repo=Gym-landing-page" />
-</a>
-
-</div> 
 
   
 
