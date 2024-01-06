@@ -98,11 +98,11 @@ mukulsingh745@gmail.com <br>
 ## Github Stats  
   
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mukul962832/GFG&show_icons=true&locale=en&layout=compact&theme=tokyonight"
-alt="Mukul962832/GFG" /></p>
+alt="Mukul962832" /></p>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Mukul962832/GFG&show_icons=true&locale=en&theme=tokyonight"
-alt="Mukul962832/GFG" /></p>
+alt="Mukul962832" /></p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mukul962832/GFG&&theme=tokyonight"
-alt="Mukul962832/GFG" /></p>
+alt="Mukul962832" /></p>
 
 
   
