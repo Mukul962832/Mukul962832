@@ -1,6 +1,4 @@
-<div align="center">
-<img src="https://pixabay.com/get/g8bc7494c0741c5a4b0d0717c54cfb6609a2ee37550a9793cb6d6893232e7b6101eb51ecb40b5a61911d0eb5a1508129c_640.png" align="center" style="width: 40%" />
-</div>  
+  
   
 
 ### <div align="center">I'm Mukul Singh, a Pre-final year at IIIT Bhopal👨‍💻, a Frontend web developer.</div>  
